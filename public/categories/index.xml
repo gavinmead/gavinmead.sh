@@ -3,5 +3,13 @@
         <title>Categories - Category - Gavin Mead</title>
         <link>https://gavinmead.sh/categories/</link>
         <description>Categories - Category - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gavinmead.sh/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Aug 2023 07:54:01 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>technology</title>
+    <link>https://gavinmead.sh/categories/technology/</link>
+    <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/categories/technology/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

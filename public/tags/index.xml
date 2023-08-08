@@ -3,5 +3,37 @@
         <title>Tags - Tag - Gavin Mead</title>
         <link>https://gavinmead.sh/tags/</link>
         <description>Tags - Tag - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gavinmead.sh/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Aug 2023 07:54:01 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>ai</title>
+    <link>https://gavinmead.sh/tags/ai/</link>
+    <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/tags/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ml</title>
+    <link>https://gavinmead.sh/tags/ml/</link>
+    <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/tags/ml/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>projects</title>
+    <link>https://gavinmead.sh/tags/projects/</link>
+    <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/tags/projects/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>technology</title>
+    <link>https://gavinmead.sh/tags/technology/</link>
+    <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/tags/technology/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
