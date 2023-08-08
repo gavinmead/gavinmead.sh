@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://gavinmead.sh/</loc><lastmod>2023-08-07T18:36:05-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://gavinmead.sh/posts/</loc><lastmod>2023-08-07T18:36:05-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://gavinmead.sh/something_new/</loc><lastmod>2023-08-07T18:36:05-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://gavinmead.sh/</loc><lastmod>2023-08-07T18:46:12-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://gavinmead.sh/posts/</loc><lastmod>2023-08-07T18:46:12-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://gavinmead.sh/something_new/</loc><lastmod>2023-08-07T18:46:12-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://gavinmead.sh/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://gavinmead.sh/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
