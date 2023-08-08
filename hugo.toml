@@ -65,6 +65,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About Me"
+    url = "/about"
+    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -94,9 +102,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "  gavinmead.sh"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
+      pre = "<i class=\"fa-solid fa-terminal\"> </i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
@@ -280,7 +288,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    #Email = "xxxx@xxxx.com"
     RSS = true # 
 
   #  Page global config
