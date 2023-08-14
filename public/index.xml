@@ -3,9 +3,19 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Aug 2023 07:54:01 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 13 Aug 2023 19:53:58 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>August 6th Week In Review</title>
+    <link>https://gavinmead.sh/8_6_week_review/</link>
+    <pubDate>Sun, 13 Aug 2023 19:53:58 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/8_6_week_review/</guid>
+    <description><![CDATA[Enjoyed a week of relaxation at the beach. I want to do something similar to the Tim Ferriss 5 Bullet Friday where I share stuff that I found interesting this past week.
+Podcasts I enjoyed:
+The Tim Ferriss Show episode with Dustin Moskovitz. I&rsquo;m playing around with the time budget google sheet template. The Ethan Hawke episode of Armchair Expert resonated with me. Lots of conversation around taking risks and learning from failure.]]></description>
+</item>
+<item>
     <title>2048 Agent</title>
     <link>https://gavinmead.sh/2048_agent/</link>
     <pubDate>Tue, 08 Aug 2023 07:54:01 -0400</pubDate>
