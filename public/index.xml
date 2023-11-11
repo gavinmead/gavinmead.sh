@@ -11,8 +11,8 @@
     <pubDate>Sat, 11 Nov 2023 10:17:08 -0500</pubDate>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/radiate/</guid>
-    <description><![CDATA[Idea A Rust based distributed computation engine.
-How? No idea just yet]]></description>
+    <description><![CDATA[Idea Inspired by Spark (thesaurus.com has radiate as a synonym to Spark), this is an academic project to learn Rust, get smart about cool data projects in the Rust ecosystem and do something fun.
+Goals User focused SDK Easy quickstart; it just works Course and fine grained configuration levers; profiles and full control A REPL Fast (find some Spark Benchmarks for fun) Data Frame and SQL interfaces should be available (Datafusion can probably help here) Intuitions (Probably Wrong) Apache Arrow is the foundation of the &lsquo;big-data&rsquo; world.]]></description>
 </item>
 <item>
     <title>August 6th Week In Review</title>
