@@ -4,13 +4,14 @@
         <link>https://gavinmead.sh/categories/projects/</link>
         <description>Projects - Category - Gavin Mead</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Aug 2023 07:54:01 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/categories/projects/" rel="self" type="application/rss+xml" /><item>
-    <title>Radiate</title>
-    <link>https://gavinmead.sh/radiate/</link>
-    <pubDate>Sat, 11 Nov 2023 10:17:08 -0500</pubDate>
+    <title>gm-git</title>
+    <link>https://gavinmead.sh/gm-git/</link>
+    <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
     <author>Gavin</author>
-    <guid>https://gavinmead.sh/radiate/</guid>
-    <description><![CDATA[Idea Inspired by Spark (thesaurus.com has radiate as a synonym to Spark), this is an academic project to learn Rust, get smart about cool data projects in the Rust ecosystem and do something fun.
-Goals User focused SDK Easy quickstart; it just works Course and fine grained configuration levers; profiles and full control A REPL Fast (find some Spark Benchmarks for fun) Data Frame and SQL interfaces should be available (Datafusion can probably help here) Intuitions (Probably Wrong) Apache Arrow is the foundation of the &lsquo;big-data&rsquo; world.]]></description>
+    <guid>https://gavinmead.sh/gm-git/</guid>
+    <description><![CDATA[Idea I am relearning C++ and writing a git clone as a means of doing so.
+It will not be a full working git clone. It is will implement a subset of commands for fun. The primary goal is learning through something practical. Items are hoping to learn:
+bazel as a build tool CLion as an IDE Interesting things from later versions of C++; it&rsquo;s been a minute since I used it Using libraries like googletest Cross platform builds for Mac and Linux ]]></description>
 </item>
 </channel>
 </rss>

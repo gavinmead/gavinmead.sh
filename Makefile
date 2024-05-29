@@ -1,3 +1,3 @@
 sync:
-	rsync -avzOt public/ ${SSH}:${SITE_PATH}
+	rsync -avz public/ ${SSH}:${SITE_PATH}
 
