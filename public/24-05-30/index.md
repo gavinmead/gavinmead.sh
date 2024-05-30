@@ -1,0 +1,8 @@
+# Bubbling Up
+
+
+The things you care about really do bubble to the top of your todo list.  
+
+Right now I am prioritizing slow productivity in my personal life; focusing on consistent exercise, learning C++ and updating this site.  I notice that other things that I *thought* I cared about have fallen away.  
+
+At work, it is building a customer experience for a platform I support.  I find that I truly care about making something that works for people, it is energizing.  The craftsmanship of customer first is a lot of fun.
