@@ -9,9 +9,8 @@
     <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/gm-git/</guid>
-    <description><![CDATA[Idea I am relearning C++ and writing a git clone as a means of doing so.
-It will not be a full working git clone. It is will implement a subset of commands for fun. The primary goal is learning through something practical. Items are hoping to learn:
-bazel as a build tool CLion as an IDE Interesting things from later versions of C++; it&rsquo;s been a minute since I used it Using libraries like googletest Cross platform builds for Mac and Linux ]]></description>
+    <description><![CDATA[5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands. It could be interesting to do some templates like the item below for a set of simple types like bools, ints, floats, strings (at least to start). The usage pattern could be something like the fields of a struct passed by reference similar to what you see in awesome tools like Cobra.
+1//Sample 2 3struct InitConfig { 4 string directory; 5 string branch; 6} 7auto cfg = InitConfig{}; 8cfg.]]></description>
 </item>
 </channel>
 </rss>

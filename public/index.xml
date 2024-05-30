@@ -3,9 +3,19 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2024 20:27:50 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 May 2024 21:01:57 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Magical Truth Seeking</title>
+    <link>https://gavinmead.sh/24-05-29/</link>
+    <pubDate>Wed, 29 May 2024 21:01:57 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-05-29/</guid>
+    <description><![CDATA[Magic really does happen in the truth seeking of differing points of view. It can be really awesome when you open yourself up to feedback and are not super attached to your own ideas.
+Updates:
+Added ideas in gm-git regarding command link flag handling. ]]></description>
+</item>
+<item>
     <title>Slow Productivity</title>
     <link>https://gavinmead.sh/24-05-28/</link>
     <pubDate>Tue, 28 May 2024 20:27:50 -0400</pubDate>
@@ -19,9 +29,8 @@
     <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/gm-git/</guid>
-    <description><![CDATA[Idea I am relearning C++ and writing a git clone as a means of doing so.
-It will not be a full working git clone. It is will implement a subset of commands for fun. The primary goal is learning through something practical. Items are hoping to learn:
-bazel as a build tool CLion as an IDE Interesting things from later versions of C++; it&rsquo;s been a minute since I used it Using libraries like googletest Cross platform builds for Mac and Linux ]]></description>
+    <description><![CDATA[5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands. It could be interesting to do some templates like the item below for a set of simple types like bools, ints, floats, strings (at least to start). The usage pattern could be something like the fields of a struct passed by reference similar to what you see in awesome tools like Cobra.
+1//Sample 2 3struct InitConfig { 4 string directory; 5 string branch; 6} 7auto cfg = InitConfig{}; 8cfg.]]></description>
 </item>
 <item>
     <title>August 6th Week In Review</title>

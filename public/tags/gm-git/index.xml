@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>technology - Tag - Gavin Mead</title>
-        <link>https://gavinmead.sh/tags/technology/</link>
-        <description>technology - Tag - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2024 20:20:29 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/technology/" rel="self" type="application/rss+xml" /><item>
+        <title>gm-git - Tag - Gavin Mead</title>
+        <link>https://gavinmead.sh/tags/gm-git/</link>
+        <description>gm-git - Tag - Gavin Mead</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2024 20:20:29 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/gm-git/" rel="self" type="application/rss+xml" /><item>
     <title>gm-git</title>
     <link>https://gavinmead.sh/gm-git/</link>
     <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
