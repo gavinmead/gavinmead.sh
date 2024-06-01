@@ -1,0 +1,8 @@
+# Do Hard Things
+
+
+For me personally, waking up at 5am is not too difficult.  Heavy deadlifts at 5:45am in the morning is not as easy.  The excuses and justifcations for why you cannot or should not do it start to creep in, but in reality like many things, we suffer more in imagination than
+reality.  
+
+Always do the first set; especially when you don't want to.  That's the point.
+
