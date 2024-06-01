@@ -3,9 +3,18 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 31 May 2024 20:24:03 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Jun 2024 07:01:28 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Bias Towards Action</title>
+    <link>https://gavinmead.sh/24-06-01/</link>
+    <pubDate>Sat, 01 Jun 2024 07:01:28 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-01/</guid>
+    <description><![CDATA[Sometimes the best course of action is to just move. Not a particularly deep thought, but for those of us that can get caught up in our own heads, it is a good reminder.
+It is easy to fall into the doom loop of questioning everything; imagining every possible outcome. &ldquo;What about this&hellip;what about that&rdquo;? This is probably not the best use of time. Focusing on the important questions is a matter of high judgement with some intuition about the questions weight.]]></description>
+</item>
+<item>
     <title>Do Hard Things</title>
     <link>https://gavinmead.sh/24-05-31/</link>
     <pubDate>Fri, 31 May 2024 20:24:03 -0400</pubDate>
@@ -48,8 +57,9 @@ Added ideas in gm-git regarding command link flag handling. ]]></description>
     <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/gm-git/</guid>
-    <description><![CDATA[5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands. It could be interesting to do some templates like the item below for a set of simple types like bools, ints, floats, strings (at least to start). The usage pattern could be something like the fields of a struct passed by reference similar to what you see in awesome tools like Cobra.
-1//Sample 2 3struct InitConfig { 4 string directory; 5 string branch; 6} 7auto cfg = InitConfig{}; 8cfg.]]></description>
+    <description><![CDATA[6/1 Flags Update I&rsquo;m curious if std::variant or std::any could work for the templated approach. I was playing around with a Flag interface and some of the templating seemed weird.
+If I want to do that then fixing the bazel build is the next thing. It looks like the cc_toolchain defaults to c++14, and I&rsquo;ll need at least c++17 (23 is ideal) in order to explore that more.
+5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands.]]></description>
 </item>
 <item>
     <title>August 6th Week In Review</title>

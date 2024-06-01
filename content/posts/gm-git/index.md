@@ -11,6 +11,13 @@ toc:
   auto: false
 ---
 
+### 6/1 Flags Update
+
+I'm curious if std::variant or std::any could work for the templated approach.  I was playing around with a Flag interface and some of the templating seemed weird. 
+
+If I want to do that then fixing the bazel build is the next thing.  It looks like the cc_toolchain defaults to c++14, and I'll need at least c++17 (23 is ideal) in order to explore that more.
+
+
 ### 5/29 Slow Productivity: Flags
 
 Thinking through some ideas for how to attach flags to the Commands.  It could be interesting to do some templates like the item below for a set of simple types like bools, ints, floats, strings (at least to start).  The usage
@@ -26,7 +33,7 @@ struct InitConfig {
 }
 auto cfg = InitConfig{};
 cfg.directory = ".";  //For the current working directory
-cfg.branch = "";  //Logic for init will set to main if this is empty
+cfg.branch = "main";
 
 auto cmd = std::make_unique<Command>("foo");
 cmd->AddFlag<string>(&cfg.directory, "d", "directory", "the directory to create the");

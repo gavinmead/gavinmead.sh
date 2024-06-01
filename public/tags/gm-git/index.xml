@@ -9,8 +9,9 @@
     <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/gm-git/</guid>
-    <description><![CDATA[5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands. It could be interesting to do some templates like the item below for a set of simple types like bools, ints, floats, strings (at least to start). The usage pattern could be something like the fields of a struct passed by reference similar to what you see in awesome tools like Cobra.
-1//Sample 2 3struct InitConfig { 4 string directory; 5 string branch; 6} 7auto cfg = InitConfig{}; 8cfg.]]></description>
+    <description><![CDATA[6/1 Flags Update I&rsquo;m curious if std::variant or std::any could work for the templated approach. I was playing around with a Flag interface and some of the templating seemed weird.
+If I want to do that then fixing the bazel build is the next thing. It looks like the cc_toolchain defaults to c++14, and I&rsquo;ll need at least c++17 (23 is ideal) in order to explore that more.
+5/29 Slow Productivity: Flags Thinking through some ideas for how to attach flags to the Commands.]]></description>
 </item>
 </channel>
 </rss>
