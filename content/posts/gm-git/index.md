@@ -11,6 +11,16 @@ toc:
   auto: false
 ---
 
+### 6/1 Flag Update Part 2
+
+So it was not a Bazel problem, but a me problem.  I was missing a few header files.  
+
+That being said, variant and any did not work with the templated approach.  I found myself duplicating a bit of code so I tried something fun.
+
+{{< gist gavinmead 6b58dbdbe4d3bba903891dccc00f393c >}}
+
+So far this seems to be working, but I did observe that debugging involving a macro will be funky; so it should be judiciously. 
+
 ### 6/1 Flags Update
 
 I'm curious if std::variant or std::any could work for the templated approach.  I was playing around with a Flag interface and some of the templating seemed weird. 
