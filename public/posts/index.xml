@@ -3,7 +3,15 @@
         <title>All Posts - Gavin Mead</title>
         <link>https://gavinmead.sh/posts/</link>
         <description>All Posts | Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Jun 2024 19:16:27 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 21:22:13 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Being of service</title>
+    <link>https://gavinmead.sh/24-06-05/</link>
+    <pubDate>Wed, 05 Jun 2024 21:22:13 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-05/</guid>
+    <description><![CDATA[Guiding and helping other people is pretty great and something that I&rsquo;ve grown into over the last few years. I never thought of myself as a leader and was quite reluctant to embrace that as a thing that mattered. But, I have found that helping others, especially teaching has been incredibly rewarding and I am always so happy when I see people grow.]]></description>
+</item>
+<item>
     <title>Hold high standards for yourself</title>
     <link>https://gavinmead.sh/24-06-04/</link>
     <pubDate>Tue, 04 Jun 2024 19:16:27 -0400</pubDate>
@@ -84,16 +92,6 @@ Added ideas in gm-git regarding command link flag handling. ]]></description>
     <description><![CDATA[6/1 Flag Update Part 2 So it was not a Bazel problem, but a me problem. I was missing a few header files.
 That being said, variant and any did not work with the templated approach. I found myself duplicating a bit of code so I tried something fun.
 So far this seems to be working, but I did observe that debugging involving a macro will be funky; so it should be judiciously.]]></description>
-</item>
-<item>
-    <title>August 6th Week In Review</title>
-    <link>https://gavinmead.sh/8_6_week_review/</link>
-    <pubDate>Sun, 13 Aug 2023 19:53:58 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/8_6_week_review/</guid>
-    <description><![CDATA[Enjoyed a week of relaxation at the beach. I want to do something similar to the Tim Ferriss 5 Bullet Friday where I share stuff that I found interesting this past week.
-Podcasts I enjoyed:
-The Tim Ferriss Show episode with Dustin Moskovitz. I&rsquo;m playing around with the time budget google sheet template. The Ethan Hawke episode of Armchair Expert resonated with me. Lots of conversation around taking risks and learning from failure.]]></description>
 </item>
 </channel>
 </rss>
