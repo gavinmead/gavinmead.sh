@@ -3,9 +3,17 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 21:22:13 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 06 Jun 2024 21:25:27 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Connection</title>
+    <link>https://gavinmead.sh/24-06-06/</link>
+    <pubDate>Thu, 06 Jun 2024 21:25:27 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-06/</guid>
+    <description><![CDATA[I&rsquo;ve become pretty introverted as I&rsquo;ve gotten older. But, every now and then I&rsquo;m reminded of why connecting with people is so important. You find that you aren&rsquo;t alone in your insecurities, that we have shared experiences of self-doubt or imposter syndrome that never goes away. It is a relief.]]></description>
+</item>
+<item>
     <title>Being of service</title>
     <link>https://gavinmead.sh/24-06-05/</link>
     <pubDate>Wed, 05 Jun 2024 21:22:13 -0400</pubDate>
@@ -84,16 +92,6 @@ Added ideas in gm-git regarding command link flag handling. ]]></description>
     <author>Gavin</author>
     <guid>https://gavinmead.sh/24-05-28/</guid>
     <description><![CDATA[I am on a general search for balance and consistency. I was listening a few months ago to an episode of The Tim Ferriss Show that talked about slow productivity. I am going to give it another listen, but something that stuck with me was the consistency of practice. I heard it but it didn&rsquo;t click. Then I heard a similar thing in an interview with Seth Godin where he commits to writing everyday.]]></description>
-</item>
-<item>
-    <title>gm-git</title>
-    <link>https://gavinmead.sh/gm-git/</link>
-    <pubDate>Tue, 28 May 2024 20:20:29 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/gm-git/</guid>
-    <description><![CDATA[6/1 Flag Update Part 2 So it was not a Bazel problem, but a me problem. I was missing a few header files.
-That being said, variant and any did not work with the templated approach. I found myself duplicating a bit of code so I tried something fun.
-So far this seems to be working, but I did observe that debugging involving a macro will be funky; so it should be judiciously.]]></description>
 </item>
 </channel>
 </rss>
