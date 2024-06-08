@@ -8,7 +8,6 @@ post:
 wir_post:
 	hugo new posts/$(shell date -v -7d '+%Y/%y-%m-%d')-week-in-review.md
 
-
 site_build:
 	hugo
 
