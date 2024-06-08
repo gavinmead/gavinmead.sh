@@ -3,7 +3,15 @@
         <title>life - Tag - Gavin Mead</title>
         <link>https://gavinmead.sh/tags/life/</link>
         <description>life - Tag - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 06 Jun 2024 21:25:27 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 Jun 2024 20:40:50 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+    <title>Practice within a domain</title>
+    <link>https://gavinmead.sh/24-06-07/</link>
+    <pubDate>Fri, 07 Jun 2024 20:40:50 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-07/</guid>
+    <description><![CDATA[Cooking is something I love and I&rsquo;m not terribly good at it. I have some staples that are good and I&rsquo;ve made modifications to them over the years, but I started a tradition last year that involved the weekend of my birthday crafting a meal that I don&rsquo;t normally do. Last year it was the spaghetti from The Chef Show on Netflix. It was a lot of fun and really difficult.]]></description>
+</item>
+<item>
     <title>Connection</title>
     <link>https://gavinmead.sh/24-06-06/</link>
     <pubDate>Thu, 06 Jun 2024 21:25:27 -0400</pubDate>
@@ -82,14 +90,6 @@ At work, it is building a customer experience for a platform I support. I find t
     <description><![CDATA[Magic really does happen in the truth seeking of differing points of view. It can be really awesome when you open yourself up to feedback and are not super attached to your own ideas.
 Updates:
 Added ideas in gm-git regarding command link flag handling. ]]></description>
-</item>
-<item>
-    <title>Slow Productivity</title>
-    <link>https://gavinmead.sh/24-05-28/</link>
-    <pubDate>Tue, 28 May 2024 20:27:50 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-05-28/</guid>
-    <description><![CDATA[I am on a general search for balance and consistency. I was listening a few months ago to an episode of The Tim Ferriss Show that talked about slow productivity. I am going to give it another listen, but something that stuck with me was the consistency of practice. I heard it but it didn&rsquo;t click. Then I heard a similar thing in an interview with Seth Godin where he commits to writing everyday.]]></description>
 </item>
 </channel>
 </rss>

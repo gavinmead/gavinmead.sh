@@ -1,0 +1,6 @@
+# Practice within a domain
+
+
+Cooking is something I love and I'm not terribly good at it.  I have some staples that are good and I've made modifications to them over the years, but I started a tradition last year that involved the weekend of my birthday crafting a meal that I don't normally do.  Last year it was the spaghetti from The Chef Show on Netflix.  It was a lot of fun and really difficult.  
+
+This year it's hamburgers.  Like, really trying to making something that tasted amazing.  I studied YouTube channels and got some advice from a co-worker of mine who ultimately convinced me to use a griddle or cast iron pan.  I didn't do exactly what he recommended (smashburgers), but they turned out quite well.  What does this have to do with practice?  It a committment to doing something well even when you aren't good at it.  It is being coachable and open to feedback; trusting in others.
