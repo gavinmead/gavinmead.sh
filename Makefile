@@ -13,4 +13,4 @@ commit: site_build
 	git commit -m "auto: $(shell date '+%Y/%y-%m-%d') update"
 	git push origin
 
-#site_push:
+site_push: commit sync
