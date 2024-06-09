@@ -11,9 +11,12 @@ wir_post:
 site_build:
 	hugo
 
+server:
+	hugo server --disableFastRender -D
+
 commit: site_build
 	git add .
 	git commit -m "auto: $(shell date '+%Y/%y-%m-%d') update"
 	git push origin
 
-site_push: commit sync
+site_push: site_build commit sync

@@ -4,6 +4,7 @@ date: 2024-06-02T10:05:48-04:00
 draft: false
 tags:
   - life
+  - week_in_review
 categories:
   - life
 ---

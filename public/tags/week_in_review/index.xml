@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>week_in_review - Tag - Gavin Mead</title>
+        <link>https://gavinmead.sh/tags/week_in_review/</link>
+        <description>week_in_review - Tag - Gavin Mead</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Jun 2024 08:28:47 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/week_in_review/" rel="self" type="application/rss+xml" /><item>
+    <title>June 2-8 Week In Review</title>
+    <link>https://gavinmead.sh/24-06-02-week-in-review/</link>
+    <pubDate>Sun, 09 Jun 2024 08:28:47 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-02-week-in-review/</guid>
+    <description><![CDATA[Podcasts I enjoyed The Tim Ferriss two for one episodes have been great. This one stuck out: The Tim Ferriss Show. Zschau&rsquo;s story is remarkable and Collins system for tracking creativity is pretty cool. The Rich Roll Podcast. Roll On is always fun. C++ Updates Mostly the same as last week, but did some practice with googletest for mocking. Finished a few of the Build Your Own Redis on codeCrafters in addition to some updates to gm-git.]]></description>
+</item>
+<item>
+    <title>May 26-June 1 Week in Review</title>
+    <link>https://gavinmead.sh/24-05-26-week-in-review/</link>
+    <pubDate>Sun, 02 Jun 2024 10:05:48 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-05-26-week-in-review/</guid>
+    <description><![CDATA[A delightful week of slow productivity. A few fun things to share.
+Podcasts I enjoyed The Tim Ferriss Show two for one with Brene Brown and Edward O. Thorp. The Rich Roll Podcast with Dan Churchill. Technically, I listened to this last week, but wanted to share. Resources I&rsquo;ve been using for C++ and
+Things that have me curious Rucking as a means of improving my health. I am not a runner and while I like walking, I&rsquo;d like to get more out of it.]]></description>
+</item>
+</channel>
+</rss>
