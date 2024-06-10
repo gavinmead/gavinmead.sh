@@ -3,9 +3,17 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Jun 2024 08:28:47 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Jun 2024 17:52:58 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Tradeoffs</title>
+    <link>https://gavinmead.sh/24-06-10/</link>
+    <pubDate>Mon, 10 Jun 2024 17:52:58 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-10/</guid>
+    <description><![CDATA[Focus on the things that matter to you and find opportunities to cut out noise. As I&rsquo;ve gotten older the only thing that really matters to me is my time. But, I am not always so great at utilizing my time as wisely as I could. This happens because it is difficult to say no or my curiousity gets the better of me instead of staying focused on a few things.]]></description>
+</item>
+<item>
     <title>June 2-8 Week In Review</title>
     <link>https://gavinmead.sh/24-06-02-week-in-review/</link>
     <pubDate>Sun, 09 Jun 2024 08:28:47 -0400</pubDate>
@@ -79,15 +87,6 @@ Things that have me curious Rucking as a means of improving my health. I am not 
     <guid>https://gavinmead.sh/24-06-01/</guid>
     <description><![CDATA[Sometimes the best course of action is to just move. Not a particularly deep thought, but for those of us that can get caught up in our own heads, it is a good reminder.
 It is easy to fall into the doom loop of questioning everything; imagining every possible outcome. &ldquo;What about this&hellip;what about that&rdquo;? This is probably not the best use of time. Focusing on the important questions is a matter of high judgement with some intuition about the questions weight.]]></description>
-</item>
-<item>
-    <title>Do Hard Things</title>
-    <link>https://gavinmead.sh/24-05-31/</link>
-    <pubDate>Fri, 31 May 2024 20:24:03 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-05-31/</guid>
-    <description><![CDATA[For me personally, waking up at 5am is not too difficult. Heavy deadlifts at 5:45am in the morning is not as easy. The excuses and justifcations for why you cannot or should not do it start to creep in, but in reality like many things, we suffer more in imagination than reality.
-Always do the first set; especially when you don&rsquo;t want to. That&rsquo;s the point.]]></description>
 </item>
 </channel>
 </rss>
