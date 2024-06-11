@@ -3,7 +3,15 @@
         <title>life - Category - Gavin Mead</title>
         <link>https://gavinmead.sh/categories/life/</link>
         <description>life - Category - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Jun 2024 17:52:58 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/categories/life/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Jun 2024 19:36:21 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/categories/life/" rel="self" type="application/rss+xml" /><item>
+    <title>Gratitude</title>
+    <link>https://gavinmead.sh/24-06-11/</link>
+    <pubDate>Tue, 11 Jun 2024 19:36:21 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-11/</guid>
+    <description><![CDATA[Gratitude is a nice way to start or end any day. It is useful at the end; especially if the day was less than ideal because it will shift you towards something positive. It is a common practice as a prompt for daily journaling. I have a section for gratitude in my morning pages template, but, I don&rsquo;t always follow it. It says &ldquo;I am grateful for&rdquo; and then I list some things.]]></description>
+</item>
+<item>
     <title>Tradeoffs</title>
     <link>https://gavinmead.sh/24-06-10/</link>
     <pubDate>Mon, 10 Jun 2024 17:52:58 -0400</pubDate>
@@ -76,15 +84,6 @@
     <description><![CDATA[A delightful week of slow productivity. A few fun things to share.
 Podcasts I enjoyed The Tim Ferriss Show two for one with Brene Brown and Edward O. Thorp. The Rich Roll Podcast with Dan Churchill. Technically, I listened to this last week, but wanted to share. Resources I&rsquo;ve been using for C++ and
 Things that have me curious Rucking as a means of improving my health. I am not a runner and while I like walking, I&rsquo;d like to get more out of it.]]></description>
-</item>
-<item>
-    <title>Bias Towards Action</title>
-    <link>https://gavinmead.sh/24-06-01/</link>
-    <pubDate>Sat, 01 Jun 2024 07:01:28 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-06-01/</guid>
-    <description><![CDATA[Sometimes the best course of action is to just move. Not a particularly deep thought, but for those of us that can get caught up in our own heads, it is a good reminder.
-It is easy to fall into the doom loop of questioning everything; imagining every possible outcome. &ldquo;What about this&hellip;what about that&rdquo;? This is probably not the best use of time. Focusing on the important questions is a matter of high judgement with some intuition about the questions weight.]]></description>
 </item>
 </channel>
 </rss>
