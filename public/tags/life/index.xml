@@ -3,7 +3,17 @@
         <title>life - Tag - Gavin Mead</title>
         <link>https://gavinmead.sh/tags/life/</link>
         <description>life - Tag - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 15 Jun 2024 14:19:42 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Jun 2024 10:23:45 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+    <title>June 9-15 Week in Review</title>
+    <link>https://gavinmead.sh/24-06-09-week-in-review/</link>
+    <pubDate>Sun, 16 Jun 2024 10:23:45 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-09-week-in-review/</guid>
+    <description><![CDATA[Podcasts I enjoyed Limited podcast time this week
+The Rich Roll Podcast with Sam Harris was interesting. C++ Updates Mostly video watching this week; learning about the rule of 5 and weak pointers. I did a little work on gm-git focused on the builder pattern. It provided more practice with move semantics and has been great learning so far.
+Curiosity Updates Rucking walks have been good; doing about 1.5 miles. I did 3.]]></description>
+</item>
+<item>
     <title>Chances</title>
     <link>https://gavinmead.sh/24-06-15/</link>
     <pubDate>Sat, 15 Jun 2024 14:19:42 -0400</pubDate>
@@ -75,14 +85,6 @@ I visited my old my university today. I&rsquo;ll probably write more about that 
     <author>Gavin</author>
     <guid>https://gavinmead.sh/24-06-07/</guid>
     <description><![CDATA[Cooking is something I love and I&rsquo;m not terribly good at it. I have some staples that are good and I&rsquo;ve made modifications to them over the years, but I started a tradition last year that involved the weekend of my birthday crafting a meal that I don&rsquo;t normally do. Last year it was the spaghetti from The Chef Show on Netflix. It was a lot of fun and really difficult.]]></description>
-</item>
-<item>
-    <title>Connection</title>
-    <link>https://gavinmead.sh/24-06-06/</link>
-    <pubDate>Thu, 06 Jun 2024 21:25:27 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-06-06/</guid>
-    <description><![CDATA[I&rsquo;ve become pretty introverted as I&rsquo;ve gotten older. But, every now and then I&rsquo;m reminded of why connecting with people is so important. You find that you aren&rsquo;t alone in your insecurities, that we have shared experiences of self-doubt or imposter syndrome that never goes away. It is a relief.]]></description>
 </item>
 </channel>
 </rss>
