@@ -1,0 +1,4 @@
+# Big Bets
+
+
+'Big' is all relative here.  But sometimes there is a need to take a big swing and do something that feels immensely uncomfortable.  It can mean going against the status quo or going out on your own.  I have a lot of respect for the folks who step into the arena and take a shot.  It is something that I admire and I have to work myself up towards doing more often.  It may suck in the moment, but assuming you learn and grow, it is a net positive in the end.  But, it means you have to be open to feedback and not always in justification mode.  That can be hard, but also the sign of a growth mindset.  
