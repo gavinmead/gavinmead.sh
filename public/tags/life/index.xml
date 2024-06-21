@@ -3,7 +3,15 @@
         <title>life - Tag - Gavin Mead</title>
         <link>https://gavinmead.sh/tags/life/</link>
         <description>life - Tag - Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Jun 2024 19:50:44 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 21 Jun 2024 05:22:23 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/tags/life/" rel="self" type="application/rss+xml" /><item>
+    <title>An occasional miss</title>
+    <link>https://gavinmead.sh/24-06-21/</link>
+    <pubDate>Fri, 21 Jun 2024 05:22:23 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-06-21/</guid>
+    <description><![CDATA[Traded slow productivity for a few days of extreme productivity. Nothing is for free and the cost was time for other things. Missed some daily C++, exercise and site updates. This is fine as an occassional miss, but not to become routine. A bit of reflection and resetting is necessary. It happens sometimes&hellip;]]></description>
+</item>
+<item>
     <title>Marathons</title>
     <link>https://gavinmead.sh/24-06-18/</link>
     <pubDate>Tue, 18 Jun 2024 19:50:44 -0400</pubDate>
@@ -77,14 +85,6 @@ I visited my old my university today. I&rsquo;ll probably write more about that 
     <author>Gavin</author>
     <guid>https://gavinmead.sh/24-06-10/</guid>
     <description><![CDATA[Focus on the things that matter to you and find opportunities to cut out noise. As I&rsquo;ve gotten older the only thing that really matters to me is my time. But, I am not always so great at utilizing my time as wisely as I could. This happens because it is difficult to say no or my curiousity gets the better of me instead of staying focused on a few things.]]></description>
-</item>
-<item>
-    <title>June 2-8 Week In Review</title>
-    <link>https://gavinmead.sh/24-06-02-week-in-review/</link>
-    <pubDate>Sun, 09 Jun 2024 08:28:47 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-06-02-week-in-review/</guid>
-    <description><![CDATA[Podcasts I enjoyed The Tim Ferriss two for one episodes have been great. This one stuck out: The Tim Ferriss Show. Zschau&rsquo;s story is remarkable and Collins system for tracking creativity is pretty cool. The Rich Roll Podcast. Roll On is always fun. C++ Updates Mostly the same as last week, but did some practice with googletest for mocking. Finished a few of the Build Your Own Redis on codeCrafters in addition to some updates to gm-git.]]></description>
 </item>
 </channel>
 </rss>
