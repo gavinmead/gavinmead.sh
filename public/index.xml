@@ -3,9 +3,17 @@
         <title>Gavin Mead</title>
         <link>https://gavinmead.sh/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Jul 2024 00:12:26 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jul 2024 20:09:22 -0400</lastBuildDate>
             <atom:link href="https://gavinmead.sh/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Don&#39;t wait until you are ready</title>
+    <link>https://gavinmead.sh/24-07-18/</link>
+    <pubDate>Thu, 18 Jul 2024 20:09:22 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-07-18/</guid>
+    <description><![CDATA[I&rsquo;m reading &lsquo;Hidden Potential&rsquo; by Adam Grant and one of the areas around growth is that you have be willing to fail alot and to start before you think you are ready. Just keep trying. If you fail, reflect and adjust and try again.]]></description>
+</item>
+<item>
     <title>Why Worry</title>
     <link>https://gavinmead.sh/24-07-17/</link>
     <pubDate>Wed, 17 Jul 2024 00:12:26 -0400</pubDate>
@@ -76,15 +84,6 @@
     <author>Gavin</author>
     <guid>https://gavinmead.sh/24-06-15/</guid>
     <description><![CDATA[I don&rsquo;t use social media other than LinkedIn and rarely do I share anything. I&rsquo;ll like things that others share, but I am generally quite reticient. I don&rsquo;t know where that comes from other than a fear of something. Probably criticism. But that is something that I am working on. I wanted to share an experience I had after going for a walk at my alma-mater George Mason University. I spent too much time on it, but it was also a good writing exercise and I&rsquo;m glad I did it.]]></description>
-</item>
-<item>
-    <title>Under the wire</title>
-    <link>https://gavinmead.sh/24-06-14/</link>
-    <pubDate>Fri, 14 Jun 2024 22:54:16 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-06-14/</guid>
-    <description><![CDATA[A bit of a crazy day, but still trying to maintain the habit of a daily post.
-I visited my old my university today. I&rsquo;ll probably write more about that another day. I just took a walk while my son had soccer practice. I thought about good (and bad) memories, but really how the course of my life changed though chance encounters and making connections with people during my time there.]]></description>
 </item>
 </channel>
 </rss>
