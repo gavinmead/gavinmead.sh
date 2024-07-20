@@ -3,7 +3,15 @@
         <title>All Posts - Gavin Mead</title>
         <link>https://gavinmead.sh/posts/</link>
         <description>All Posts | Gavin Mead</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jul 2024 20:09:22 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 19 Jul 2024 22:16:48 -0400</lastBuildDate><atom:link href="https://gavinmead.sh/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Positive Intent</title>
+    <link>https://gavinmead.sh/24-07-19/</link>
+    <pubDate>Fri, 19 Jul 2024 22:16:48 -0400</pubDate>
+    <author>Gavin</author>
+    <guid>https://gavinmead.sh/24-07-19/</guid>
+    <description><![CDATA[Always assume people mean well. It is a great feeling.]]></description>
+</item>
+<item>
     <title>Don&#39;t wait until you are ready</title>
     <link>https://gavinmead.sh/24-07-18/</link>
     <pubDate>Thu, 18 Jul 2024 20:09:22 -0400</pubDate>
@@ -74,14 +82,6 @@
     <author>Gavin</author>
     <guid>https://gavinmead.sh/24-06-09-week-in-review/</guid>
     <description><![CDATA[This was an uneventful week. A lot of professional work intruded on slow productivity, but will get back to normal soon.]]></description>
-</item>
-<item>
-    <title>Chances</title>
-    <link>https://gavinmead.sh/24-06-15/</link>
-    <pubDate>Sat, 15 Jun 2024 14:19:42 -0400</pubDate>
-    <author>Gavin</author>
-    <guid>https://gavinmead.sh/24-06-15/</guid>
-    <description><![CDATA[I don&rsquo;t use social media other than LinkedIn and rarely do I share anything. I&rsquo;ll like things that others share, but I am generally quite reticient. I don&rsquo;t know where that comes from other than a fear of something. Probably criticism. But that is something that I am working on. I wanted to share an experience I had after going for a walk at my alma-mater George Mason University. I spent too much time on it, but it was also a good writing exercise and I&rsquo;m glad I did it.]]></description>
 </item>
 </channel>
 </rss>
